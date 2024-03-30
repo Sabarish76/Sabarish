@@ -3,15 +3,15 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src=https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif>
  
-- 🔭 I’m currently working for **River World Technologies**
+- 🔭 I’m currently working for **My Self**
 
-- 🌱 I’m currently learning **ReactNative,Express**
+- 🌱 I’m currently learning **BackEnd**
 
 - 👯 I’m looking to collaborate on **WebDevelopment**
 
-- 🤝 I’m looking for help with **Redux**
+- 🤝 I’m looking for help with **Backend**
 
-- 💬 Ask me about **React,Tailwind,Javascript**
+- 💬 Ask me about **React,Tailwind,Javascript,FrontEnd**
 
 - 📫 How to reach me **sabarishharidas@gmail.com**
 
