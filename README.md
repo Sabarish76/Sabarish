@@ -3,15 +3,15 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src=https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif>
  
-- 🔭 I’m currently working for **trueconnect strategic services**
+- 🔭 I’m currently working for **Nigo Compliance Private Limited**
 
-- 🌱 I’m currently learning **NextJs**
+- 🌱 I’m currently learning **LangChain**
 
 - 👯 I’m looking to collaborate on **WebDevelopment**
 
-- 🤝 I’m looking for help with **NextJs**
+- 🤝 I’m looking for help with **Ai Agents**
 
-- 💬 Ask me about **React,Tailwind,Javascript,FrontEnd**
+- 💬 Ask me about **React,Node,Nextjs,Tailwind,Javascript,FullStack,SQL**
 
 - 📫 How to reach me **sabarishharidas@gmail.com**
 
